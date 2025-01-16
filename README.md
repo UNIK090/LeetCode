@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/UNIK090/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/UNIK090/LeetCode/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/UNIK090/LeetCode/tree/master/0051-n-queens) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/UNIK090/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
